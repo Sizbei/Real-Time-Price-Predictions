@@ -10,11 +10,6 @@ export default function Chart() {
     fetch(url).then(
         res => res.json().then(
             data => {
-                console.log({
-                    'data' : {
-                        datasets: data['current'],
-                        labels: ['a']
-                    });
                 setData(
                     {
                         'data' : {
