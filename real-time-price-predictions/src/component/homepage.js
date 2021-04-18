@@ -14,6 +14,7 @@ const HomePage = () => {
               <Card.Text>
                 <p>
                   Take Advantage of the Fleeting Machine Learning Models and Regressions to track future prices.
+                    Click the clam and see!
                 </p>
                 
                

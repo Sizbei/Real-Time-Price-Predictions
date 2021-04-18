@@ -9,7 +9,7 @@ const ErrorPage = () => {
         <div className="center">
           <Col>
             <img src={'assets/404.png'} style={{ margin: "20px" }} />
-            <img src={'404text.png'} />
+            <img src={'assets/404text.png'} />
           </Col>
         </div>
       </div>
