@@ -28,6 +28,7 @@ export default function Chart() {
             empty.push(null)
         }
         const test = [ ...empty , ...result.data['prediction']];
+
         setData({
             labels: [...times, ...times2],
             datasets: [
